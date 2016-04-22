@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello fellow earthlings! 
+
+I just love SSL
